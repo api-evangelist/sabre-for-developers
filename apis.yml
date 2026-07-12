@@ -23,6 +23,8 @@ apis:
       - type: Documentation
         url: https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel
 common:
+  - type: DomainSecurity
+    url: security/sabre-for-developers-domain-security.yml
   - type: Website
     url: https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel
   - type: PublicAPIsListing
