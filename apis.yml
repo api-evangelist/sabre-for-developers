@@ -39,7 +39,6 @@ apis:
   - name: Sabre for Developers
     description: "Travel Search - Limited usage"
     humanURL: https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel
-    baseURL: https://developer.sabre.com/guides/travel-agency/quickstart/getting-started-in-travel
     tags:
       - Transportation
     properties:
